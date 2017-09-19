@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Reinforcement-learning
-Agent learns to play Tic-Tac-Toe using reinforcement learning. The agent was trained by playing against itself. Human can also play against trained Agent.
+Agent learns to play Tic-Tac-Toe using Reinforcement-learning (Q-learning). The agent was trained by playing against itself. Human can also play against trained Agent.
 
 ![Alt text](https://github.com/Rohithkvsp/Tic-Tac-Toe-Reinforcement-learning/blob/master/Game.jpg)<br />
 <b>Requirements:</b><br />
@@ -36,7 +36,7 @@ game.startGame(player1,player2)#player1 is X, player2 is 0
 game.reset() #reset
 game.render() # render display
 ```
-Randomplayer instead of AI agent
+Random player instead of AI agent
 
 ```
 #change player1 or player2 to Randomplayer()
